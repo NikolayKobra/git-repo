@@ -1,3 +1,6 @@
 Test no test
 No test bat test
 Testing
+True
+True
+True
